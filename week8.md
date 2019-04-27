@@ -27,6 +27,6 @@ TED TALK 凯瑟琳·布雷西：为什么好的骇客可以塑造好的公民与
 
 ****
 ### 了解更多：  
-[学编程的十个理由]（https://blog.ted.com/10-places-where-anyone-can-learn-to-code/?lang=zh-CN）   
+[学编程的十个理由](https://blog.ted.com/10-places-where-anyone-can-learn-to-code/?lang=zh-CN)  
 
-[公民黑客的心态]（https://blog.ted.com/6-unexpected-historical-figures-with-the-civic-hacker-mindset/?lang=zh-CN）
+[公民黑客的心态](https://blog.ted.com/6-unexpected-historical-figures-with-the-civic-hacker-mindset/?lang=zh-CN)
