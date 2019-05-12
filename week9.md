@@ -28,7 +28,9 @@
 
 > 联合国秘书长潘基文曾提醒，“避免极端主义和推行人权密切相关。”  
 
-而这么做的许多国家确实打着这个幌子来消除异见者，公众若没有使用加密的权利，那么人们的视野就更窄了，好似掩耳盗铃。更可怕的是这些方法都被坏人利用了，而好人却还蒙在鼓里，我认为这是十分危险的。
+而这么做的许多国家确实打着这个幌子来消除异见者，公众若没有使用加密的权利，那么人们的视野就更窄了，好似掩耳盗铃。更可怕的是这些方法都被坏人利用了，而好人却还蒙在鼓里，我认为这是十分危险的。本来政府和民众应该是相互制约相互监督的，而这样做是不利于民主的发展的。  
+  
+  ![民主示意图](http://www.cssn.cn/zx/201604/W020160401350361903668.jpg)
   
 
 
@@ -38,4 +40,4 @@
 ## 1.[如何在一小时内为你的人生加密](https://mp.weixin.qq.com/s/LRf-SHK4vH-TVYbX7_31Gg) 
 [原文](https://medium.freecodecamp.org/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3)创作于2016年11月,作者Quincy Larson,freeCodeCamp创始人。  译者：jingruzhang   校对者：lily  
 #### 2.[耶夫根尼-莫洛佐夫 (Evgeny Morozov):互联网是奥威尔的噩梦吗？](https://www.ted.com/talks/evgeny_morozov_is_the_internet_what_orwell_feared?&language=zh-cn)
- 
+ 3.民主示意图图源百度
