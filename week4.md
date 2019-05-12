@@ -22,9 +22,10 @@
 > 但这个视频告诉我们对我们日常生活中甚至包括琐碎细节的内容进行可视化，如何让抽象和无法量化的信息变得能够被看到、被感知，并直接重新与我们的生活建立联系。  
 
 这么看数据是有利与我们日常生活的，只是大部分人并没有正确的使用，再加上数据可视化方面还有一些难度，是我们忽略了生活中数据的重要性。但日常生活中有许多app就有利用到这些数据，例如女性可以通过一些软件来记录体温体重月经周期等，也有一些软件可以直观显示食物的热量。  
-******
-可视化处理后的数据，更易看懂！
-！[图表](http://img.zcool.cn/community/01b2a756fe09d26ac725794895948a.jpg)
+******  
+可视化处理后的流程图，更容易看懂
+> 此图片来自[易观方舟](https://ark.analysys.cn/portal/access-others.html)官方网站  
+![数据分析](https://ark.analysys.cn/portal/images/analytics-01.png?f23b0776e11bc5a9f450acb95dfde8b0)
 
 ## 视频链接
  [TED TALK Eric Berlow 和 Sean Gourley：图示值得传播的思想Mapping ideas worth spreading](https://www.ted.com/talks/eric_berlow_and_sean_gourley_mapping_ideas_worth_spreading?&language=zh-cn)  
