@@ -1,8 +1,19 @@
-TED TALK [蕾拉·阿卡罗格鲁：纸比塑料好？——如何审视环境民俗](https://www.ted.com/talks/leyla_acaroglu_paper_beats_plastic_how_to_rethink_environmental_folklore/transcript?&language=zh-cn)提到：
+### TED TALK [蕾拉·阿卡罗格鲁：纸比塑料好？——如何审视环境民俗](https://www.ted.com/talks/leyla_acaroglu_paper_beats_plastic_how_to_rethink_environmental_folklore/transcript?&language=zh-cn)提到：  
+1.世界上40%的食物都是被浪费的。  
+2.如果想要可持续地生活在世界上 我们需要找到更聪明、更系统的办法来解决例如垃圾分类，手机被遗弃等问题。   
+3.我们需要从整个生命周期的角度 来看待我们做的事情。   
+我对于浪费食物的数字感到十分惊讶，但转念一想食物的浪费确实与当今的生活习惯联系紧密。我们都习惯一次买上大量的蔬菜与肉类，或者加工好的食材放在冰箱。而朋友之间也经常互相赠与水果特产等，加上消费主义盛行，什么都必须拥有的信条逐渐传播开来，更是让这个情况变得更加恶劣。不仅是冰箱出了问题，在我看来，许多部分都有很严重的问题。在我看来，要解决这些问题，首先要减少一些消费主义观念的传播，倡导人们循环利用物品，减少不必要的消费。其次就是要逐渐改变人们的生活观念，减少浪费的第一步就是要及时吃掉购买的食材，让它保持新鲜，然而在节奏快繁忙的都市，自己做饭并且每次都去买菜是非常困难的事情。因此我们目前为止要解决这个问题还是有一定的难度，而在外就餐能够避免这些事情的发生但会造成更恐怖的浪费。由于严苛的卫生标准以及挑剔的食客等种种原因，食物的供给必须要保证新鲜美味，所以稍微卖相较差的食材便会被遗弃。  
+我们要从整个生命周期的角度来看待这个过程，所以我们可以构建一套类似称重买单的体系，一开始购买食材时称重付款，加收一定程度的服务费餐具费等等，然后结束时对剩余食物进行称重，但如此一来又会增加人力成本和食客的时间成本。确实是一个困难的问题。
 
-TED TALK [汤姆 赫克：遇到一个头疼的问题？先告诉我如何做烤面包吧！](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast/transcript?&language=zh-cn)提到：  
 
+### TED TALK [汤姆 赫克：遇到一个头疼的问题？先告诉我如何做烤面包吧！](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast/transcript?&language=zh-cn)提到：  
+1.因为这些节点和链接的结合，才生产出一个完整的系统模型，这个则把我们个人思考事物如何运作的思维模式可视化。  
+2.这快速的表达重述和思考与分析是我们真正唯一明晰原理的方式。 这是设计过程的核心。  
+3.系统理论学家的确告诉我们，改变陈述方式的简单性与我们改进模型的积极性相关联。  
+4.这个视觉上的革命正随着更多的组织通过集体绘画的方式来解决那些复杂困难的问题。  
+信息可视化已经成为数据分析的重要部分。我终于明白为什么我们产品设计工作坊要使用便利贴以及先独立完成后小组协作的方式，不知不觉我们原来正在使用最新鲜最深刻的数据处理方式之一。
 
-TED TALK [Bhu Srinivasan:资本主义不是意识形态，而是操作系统](https://www.ted.com/talks/bhu_srinivasan_capitalism_isn_t_an_ideology_it_s_an_operating_system?&language=zh-cn)提到：
-
-TED TALK [Eric Liu:权力是什么？](https://www.ted.com/talks/eric_liu_how_to_understand_power/up-next?&langauge=zh-cn)提到： 
+### TED TALK [Bhu Srinivasan:资本主义不是意识形态，而是操作系统](https://www.ted.com/talks/bhu_srinivasan_capitalism_isn_t_an_ideology_it_s_an_operating_system?&language=zh-cn)提到：  
+1.你们将会看到世界最有价值的经济体，世界最大的经济体，将会是一个由共产党领导的国家。  
+2.将经济问题跟意识形态区分开，思考好的政策最终可以如何成就好的政治制度。  
+在资本主义社会看似“自由”，他们却也发出了思考，考试意识到中国发展速度快，办事效率高，这其实也是一种进步。而我们也可以取他们市场的精髓，来发展我们的经济，抛开意识形态的区别，其实大家都只是在努力让生活变得更好。
