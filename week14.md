@@ -16,4 +16,5 @@
 ### TED TALK [Bhu Srinivasan:资本主义不是意识形态，而是操作系统](https://www.ted.com/talks/bhu_srinivasan_capitalism_isn_t_an_ideology_it_s_an_operating_system?&language=zh-cn)提到：  
 1.你们将会看到世界最有价值的经济体，世界最大的经济体，将会是一个由共产党领导的国家。  
 2.将经济问题跟意识形态区分开，思考好的政策最终可以如何成就好的政治制度。  
-在资本主义社会看似“自由”，他们却也发出了思考，考试意识到中国发展速度快，办事效率高，这其实也是一种进步。而我们也可以取他们市场的精髓，来发展我们的经济，抛开意识形态的区别，其实大家都只是在努力让生活变得更好。
+在资本主义社会看似“自由”，他们却也发出了思考，考试意识到中国发展速度快，办事效率高，这其实也是一种进步。而我们也可以取他们市场的精髓，来发展我们的经济，抛开意识形态的区别，其实大家都只是在努力让生活变得更好。  
+> ![附：操作系统流程图](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560788134373&di=7203a46d3da30d730bd9ee0c30eeb3ac&imgtype=0&src=http%3A%2F%2Fwww.hqew.com%2Ffile%2Ftech2%2Fnews%2F2012%2F0428%2F20130226050459602163911.jpg)
